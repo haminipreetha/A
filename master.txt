@@ -1,1 +1,5 @@
-i am master-1 I am gonna conflict
+
+i am master-3 I am gonna conflict
+
+
+I am solving the conflict
